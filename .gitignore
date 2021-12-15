@@ -6,4 +6,4 @@ HELP.md
 *.iws
 *.iml
 *.ipr
-/pathlib/*.patch
+/patchlib/*.patch
