@@ -5,6 +5,7 @@ import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
 import lombok.*;
 import org.springframework.util.StringUtils;
 import ru.javaops.bootjava.util.JsonDeserializers;
+import ru.javaops.bootjava.model.*;
 
 import javax.persistence.*;
 import javax.validation.constraints.Email;
